@@ -1,0 +1,6 @@
+"Id";"Designator";"Package";"Quantity";"Designation";"Supplier and ref";
+1;"XiaoR";"PinHeader_1x07_P1.00mm_Vertical";1;"RP2040R";;;
+2;"XiaoL";"PinHeader_1x07_P1.00mm_Vertical";1;"RP2040L";;;
+3;"S5";"SW_Cherry_MX_1.00u_PCB";1;"Key";;;
+4;"Led";"PinHeader_1x04_P1.00mm_Vertical";1;"Display";;;
+5;"D3,D5,D2,D1,D6,D4,D8,D7,D9";"D_A-405_P10.16mm_Horizontal";9;"Diode";;;
