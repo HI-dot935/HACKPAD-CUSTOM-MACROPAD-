@@ -22,7 +22,8 @@ CASE Image
 <img width="762" height="296" alt="Screenshot 2026-08-15 at 3 26 56 PM" src="https://github.com/user-attachments/assets/47d17bbc-908d-4d5c-822a-d3969a5a7257" />
 
 
-#Components list
+BOM:
+Components list
 1 unsoldered Seeed XIAO RP2040
 
 20x through-hole 1N4148 Diodes
