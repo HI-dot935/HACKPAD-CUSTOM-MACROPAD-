@@ -22,21 +22,20 @@ CASE Image
 <img width="762" height="296" alt="Screenshot 2026-08-15 at 3 26 56 PM" src="https://github.com/user-attachments/assets/47d17bbc-908d-4d5c-822a-d3969a5a7257" />
 
 
+
 BOM:
-Components list
+
 1 unsoldered Seeed XIAO RP2040
 
-20x through-hole 1N4148 Diodes
+12x through-hole 1N4148 Diodes
 
-16x MX-Style switches
-
-2x EC11 Rotary encoders
+9x MX-Style switches
 
 1x 0.91 inch OLED display (the pin order is GND-VCC-SCL-SDA, MAKE SURE YOUR PCB MATCHES)
 
-16x white blank DSA keycaps
+9x white blank DSA keycaps
 
-20x SK6812 MINI-E LEDs
+10x SK6812 MINI-E LEDs
 
 6x M3x16mm screws
 
